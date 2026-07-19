@@ -4,7 +4,7 @@ import { Sparkles, Search, MapPin, ArrowRight, Star, Building2, Shield, Bot, Cod
 import { PropertyCard } from "@/components/PropertyCard";
 import { featuredProperties, properties } from "@/lib/properties";
 import heroImage from "@/assets/property-hero.jpg";
-import heroVideo from "@/assets/hero-loop.mp4.asset.json";
+import heroVideo from "@/assets/hero-loop.mp4";
 
 export const Route = createFileRoute("/")({
   head: () => ({
