@@ -26,7 +26,7 @@ function Landing() {
       <section className="relative min-h-[92vh] overflow-hidden">
         {/* Background video */}
         <video
-          src={heroVideo.url}
+          src={heroVideo}
           autoPlay
           muted
           loop
